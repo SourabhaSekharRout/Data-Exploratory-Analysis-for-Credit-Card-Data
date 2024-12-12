@@ -11,7 +11,7 @@ The dataset comprises the following sheets:
    - Records of credit card spending for each customer.
 3.	<a href="https://github.com/SourabhaSekharRout/Data-Exploratory-Analysis-for-Credit-Card-Data/blob/main/Repayment.csv">Repayment</a>:
    - Data on credit card payments made by customers.
-Questions Addressed
+## Questions Addressed
 - Data cleaning tasks for invalid age, spending, and repayment amounts.
 - Summarizations:
   - Number of distinct customers and categories.
